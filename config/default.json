@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Omniclause:Omniclause@devconnector.reahh.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://Omniclause:Omniclause@devconnector.reahh.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
